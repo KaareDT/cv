@@ -55,7 +55,7 @@ knitr::include_graphics("img/profile-pic.jpg")
 
 ```{r}
 if(params$pdf_mode){
-  cat("View this CV online with links at https://kaaredt.github.io/cv/")
+  cat("View this CV with links online at https://kaaredt.github.io/cv/")
 } else {
   cat("[<i class='fas fa-download'></i> Download a PDF of this CV](https://github.com/KaareDT/cv/blob/main/kaare_cv.pdf)")
 }
