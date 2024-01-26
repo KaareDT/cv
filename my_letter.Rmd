@@ -1,0 +1,35 @@
+---
+author: Kaare Tranaes
+return-address: 
+  - Nordre Røse Vej 6
+  - 2300 Copenhagen S
+address:
+  - Martin Mikkelsen
+  - Hørsholm Kongevej 11B
+  - 2970 Hørsholm
+  
+subject: Application for Scientist for Software Solutions Position at Gubra
+opening: Dear Martin,
+closing: Best regards,
+signature: Kaare D. Tranaes
+
+output: komaletter::komaletter
+---
+
+Thank you again for your clarifying answers to my email about the position. I believe I have the professional qualifications for the job, and I'm very excited to formally submit my application for your consideration.
+
+**Technical Qualifications:**
+
+My analytic and programming expertise aligns perfectly with the R/Shiny/RDI segment of your tech stack. I hold a Master's degree in Human Biology and am currently conducting microbiome research as a Ph.D. student at COPSAC, specializing in microbiome data analysis, metagenomic sequencing, and statistical modeling. My master's thesis was written in Rmarkdown, ensuring complete traceability and reproducibility of the analysis, and rendered with Latex for aesthetics. I have written Shiny apps for personal use, and I'm very excited about the framework and it's scientific utility. Given my current work I am well-versed in R-DBI, connecting with databases, and conducting basic SQL queries. I'm also familiar with Linux and my proficiency with Git is evident from my Github account, hosting my data-driven Rmarkdown CV (attached). Finally, I have experience with the Scrum framework from working with the web dev team at the startup company GoMore. I still use the practice of sprints in my daily work, combined with elements of flow/deep work and domino effect theory.
+
+**Personal Qualities**:
+
+My educational background is a testament to my curiosity. I have very wide-ranging interests and have studied shipping, project management (CBS), food science, human biology and now microbiome research. I get excited about learning and always aim for steep learning curves. This means that I've taken unconventional paths, preferring MOOCs to university lectures for acquiring knowledge. I love thinking in systems, and have spent alarming amounts of time on process optimization and automation, experimenting with tools like Zapier and IFTTT in both personal and professional domains. This obsession has made me highly efficient, allowing me to hold multiple jobs concurrently with a masters degree, publish multiple peer-reviewed articles, and obtain a PhD course certificate in nutritional metabolomics while still in my bachelor.
+
+My motivation for applying goes beyond a job. Programming has become a passion for me, and I work best when I'm genuinely invested in the things I do. I really think I can thrive and grow, professionally and personally, in the role, and I'm very excited about the prospect of joining the team. I hope to have the the opportunity for a meeting in person.
+
+Thank you for considering my application.
+
+
+*This application was enhanced using AI.*
+
